@@ -1,0 +1,21 @@
+.notification {
+  align-items: center;
+  background-color: #1a8ed1;
+  color: white;
+  display: flex;
+  height: 3rem;
+  justify-content: space-between;
+  padding: 0.5rem 10%;
+  width: 100%;
+}
+.notification h2,
+.notification p {
+  font-size: 1rem;
+  margin: 0;
+}
+.error {
+  background-color: #690000;
+}
+.success {
+  background-color: #1ad1b9;
+}
