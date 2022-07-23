@@ -1,6 +1,7 @@
 # ReduxCart
-
 Add products to a cart using redux 
+
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 
 <p>Made with: </p>
 <div>
@@ -8,3 +9,6 @@ Add products to a cart using redux
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg">
 </div>
+
+
+
